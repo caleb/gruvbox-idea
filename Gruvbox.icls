@@ -1024,6 +1024,7 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="ebdbb2" />
         <option name="BACKGROUND" value="76678" />
         <option name="ERROR_STRIPE_COLOR" value="76678" />
       </value>
@@ -1074,12 +1075,14 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="ebdbb2" />
         <option name="BACKGROUND" value="427b58" />
         <option name="ERROR_STRIPE_COLOR" value="427b58" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="ebdbb2" />
         <option name="BACKGROUND" value="427b58" />
         <option name="ERROR_STRIPE_COLOR" value="427b58" />
       </value>
