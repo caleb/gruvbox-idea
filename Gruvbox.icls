@@ -397,7 +397,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="f8e1aa" />
+        <option name="FOREGROUND" value="fbf1c7" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -861,8 +861,18 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="RUBY_HEREDOC_CONTENT" baseAttributes="TEXT" />
-    <option name="RUBY_HEREDOC_ID" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="RUBY_HEREDOC_CONTENT">
+      <value>
+        <option name="FOREGROUND" value="b8bb26" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RUBY_HEREDOC_ID">
+      <value>
+        <option name="FOREGROUND" value="fb4934" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="RUBY_LINE_CONTINUATION" baseAttributes="DEFAULT_COMMA" />
     <option name="RUBY_LOCAL_VAR_ID" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="RUBY_METHOD_NAME" baseAttributes="DEFAULT_INSTANCE_METHOD" />
@@ -874,7 +884,11 @@
       </value>
     </option>
     <option name="RUBY_PARAMETER_ID" baseAttributes="DEFAULT_PARAMETER" />
-    <option name="RUBY_REGEXP" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
+    <option name="RUBY_REGEXP">
+      <value>
+        <option name="FOREGROUND" value="b8bb26" />
+      </value>
+    </option>
     <option name="RUBY_SPECIFIC_CALL">
       <value>
         <option name="FOREGROUND" value="fb4934" />
