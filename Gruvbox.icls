@@ -84,7 +84,7 @@
     </option>
     <option name="BASH.EXTERNAL_COMMAND">
       <value>
-        <option name="FOREGROUND" value="fb4934" />
+        <option name="FOREGROUND" value="b8bb26" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -878,6 +878,12 @@
     <option name="RUBY_SPECIFIC_CALL">
       <value>
         <option name="FOREGROUND" value="fb4934" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RUBY_SYMBOL">
+      <value>
+        <option name="FOREGROUND" value="d3869b" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
