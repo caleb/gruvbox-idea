@@ -745,6 +745,46 @@
     </option>
     <option name="PUPPET_HEREDOC_BODY" baseAttributes="TEXT" />
     <option name="PUPPET_HEREDOC_TAGS" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="PY.BUILTIN_NAME">
+      <value>
+        <option name="FOREGROUND" value="fe8019" />
+      </value>
+    </option>
+    <option name="PY.CLASS_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="689d6a" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PY.DECORATOR">
+      <value>
+        <option name="FOREGROUND" value="d65d0e" />
+      </value>
+    </option>
+    <option name="PY.FUNC_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="689d6a" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PY.KEYWORD_ARGUMENT">
+      <value />
+    </option>
+    <option name="PY.PREDEFINED_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="689d6a" />
+      </value>
+    </option>
+    <option name="PY.PREDEFINED_USAGE">
+      <value>
+        <option name="FOREGROUND" value="d3869b" />
+      </value>
+    </option>
+    <option name="PY.SELF_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="83a598" />
+      </value>
+    </option>
     <option name="RDOC_DIRECTIVE">
       <value>
         <option name="FOREGROUND" value="fb4934" />
