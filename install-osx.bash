@@ -5,7 +5,7 @@ if [ ! -d ~/Library ]; then
   exit 1
 fi
 
-for i in ~/Library/Preferences/{IntelliJ,RubyMine,WebIde,WebStorm}*/Colors; do
+for i in ~/Library/Preferences/{IntelliJ,RubyMine,WebIde,WebStorm,AndroidStudio}*/Colors; do
   echo "Installing in Colors directory: ${i}"
   cp Gruvbox.icls "${i}"
 done
