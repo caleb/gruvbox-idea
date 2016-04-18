@@ -63,7 +63,7 @@
     <option name="ABSTRACT_METHOD_ATTRIBUTES" baseAttributes="METHOD_CALL_ATTRIBUTES" />
     <option name="ANNOTATION_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="83786e" />
+        <option name="FOREGROUND" value="fe8019" />
       </value>
     </option>
     <option name="ANONYMOUS_CLASS_NAME_ATTRIBUTES">
@@ -673,7 +673,7 @@
     <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
     <option name="KOTLIN_ANNOTATION">
       <value>
-        <option name="FOREGROUND" value="83786e" />
+        <option name="FOREGROUND" value="fe8019" />
       </value>
     </option>
     <option name="KOTLIN_LABEL">
