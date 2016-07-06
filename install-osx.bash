@@ -6,7 +6,9 @@ if [ ! -d ~/Library ]; then
 fi
 
 for i in ~/Library/Preferences/{DataGrip,IntelliJ,IdeaIC,RubyMine,PhpStorm,WebStorm,AndroidStudio,PyCharm}*; do
-  mkdir -p "${i}/Colors"
-  echo "Installing in Colors directory: ${i}/Colors"
-  cp Gruvbox.icls "${i}/Colors"
+  if [ -d "${i}" ]; then
+    mkdir -p "${i}/Colors"
+    echo "Installing in Colors directory: ${i}/Colors"
+    cp Gruvbox.icls "${i}/Colors"
+  fi
 done
