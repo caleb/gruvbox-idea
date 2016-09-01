@@ -1,13 +1,14 @@
 <scheme name="Gruvbox" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Hack" />
+    <option name="EDITOR_FONT_NAME" value="Hasklig" />
     <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
     <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
+  <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Hack" />
     <option name="EDITOR_FONT_SIZE" value="14" />
@@ -770,6 +771,9 @@
         <option name="FOREGROUND" value="d3869b" />
         <option name="FONT_TYPE" value="1" />
       </value>
+    </option>
+    <option name="OC.OVERLOADED_OPERATOR">
+      <value />
     </option>
     <option name="OC.STRUCT_FIELD">
       <value>
