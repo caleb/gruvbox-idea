@@ -568,6 +568,18 @@
     <option name="ELIXIR_TYPE_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="ELIXIR_VALID_ESCAPE_SEQUENCE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="ELIXIR_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="ELM_ARROW" baseAttributes="DEFAULT_OPERATION_SIGN" />
+    <option name="ELM_BRACES" baseAttributes="DEFAULT_BRACES" />
+    <option name="ELM_BRACKETS" baseAttributes="DEFAULT_BRACKETS" />
+    <option name="ELM_COMMA" baseAttributes="DEFAULT_COMMA" />
+    <option name="ELM_DEFINITION_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="ELM_EQ" baseAttributes="DEFAULT_OPERATION_SIGN" />
+    <option name="ELM_OPERATOR" baseAttributes="DEFAULT_OPERATION_SIGN" />
+    <option name="ELM_PARENTHESIS" baseAttributes="DEFAULT_PARENTHS" />
+    <option name="ELM_PIPE" baseAttributes="DEFAULT_OPERATION_SIGN" />
+    <option name="ELM_TYPE" baseAttributes="DEFAULT_CLASS_NAME" />
+    <option name="ELM_TYPE_ANNOTATION_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="ELM_TYPE_ANNOTATION_SIGNATURE_TYPES" baseAttributes="DEFAULT_CLASS_REFERENCE" />
     <option name="ENUM_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="fabd2f" />
