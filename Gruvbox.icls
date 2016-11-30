@@ -446,6 +446,11 @@
         <option name="FOREGROUND" value="d3869b" />
       </value>
     </option>
+    <option name="DEFAULT_OPERATION_SIGN">
+      <value>
+        <option name="FOREGROUND" value="ebdbb2" />
+      </value>
+    </option>
     <option name="DEFAULT_PARAMETER">
       <value>
         <option name="FOREGROUND" value="83a598" />
@@ -545,6 +550,9 @@
       </value>
     </option>
     <option name="ELIXIR_ALIAS" baseAttributes="DEFAULT_CLASS_NAME" />
+    <option name="ELIXIR_BIT">
+      <value />
+    </option>
     <option name="ELIXIR_BRACES" baseAttributes="DEFAULT_BRACES" />
     <option name="ELIXIR_BRACKET" baseAttributes="DEFAULT_BRACKETS" />
     <option name="ELIXIR_CALLBACK" baseAttributes="ELIXIR_SPECIFICATION" />
@@ -554,7 +562,11 @@
     <option name="ELIXIR_EXPRESSION_SUBSTITUTION_MARK" baseAttributes="DEFAULT_BRACES" />
     <option name="ELIXIR_FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
     <option name="ELIXIR_IGNORED_VARIABLE" baseAttributes="ELIXIR_VARIABLE" />
-    <option name="ELIXIR_MACRO_CALL" baseAttributes="ELIXIR_FUNCTION_CALL" />
+    <option name="ELIXIR_MACRO_CALL">
+      <value>
+        <option name="FOREGROUND" value="fb4934" />
+      </value>
+    </option>
     <option name="ELIXIR_MAP" baseAttributes="DEFAULT_BRACES" />
     <option name="ELIXIR_OPERATION_SIGN" baseAttributes="DEFAULT_OPERATION_SIGN" />
     <option name="ELIXIR_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
