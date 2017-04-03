@@ -14,6 +14,6 @@ for product in CLion DataGrip IntelliJ IdeaIC RubyMine PhpStorm WebStorm Android
     colors_dir="$config_dir/colors"
     echo "Installing in $colors_dir"
     mkdir -p "$colors_dir"
-    cp Gruvbox.icls "$colors_dir"
+    cp *.icls "$colors_dir"
   done
 done

@@ -1,4 +1,4 @@
-<scheme name="Gruvbox" parent_scheme="Default">
+<scheme name="Gruvbox Dark Hard" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Hasklig" />
@@ -22,7 +22,7 @@
     <option name="ANNOTATIONS_COLOR" value="928374" />
     <option name="CARET_COLOR" value="bbbbbb" />
     <option name="CARET_ROW_COLOR" value="3c3836" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="282828" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="1d2021" />
     <option name="FILESTATUS_ADDED" value="629755" />
     <option name="FILESTATUS_DELETED" value="6c6c6c" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6c6c6c" />
@@ -38,7 +38,7 @@
     <option name="FILESTATUS_addedOutside" value="629755" />
     <option name="FILESTATUS_changelistConflict" value="d5756c" />
     <option name="FILESTATUS_modifiedOutside" value="6897bb" />
-    <option name="GUTTER_BACKGROUND" value="282828" />
+    <option name="GUTTER_BACKGROUND" value="1d2021" />
     <option name="INDENT_GUIDE" value="665c54" />
     <option name="LINE_NUMBERS_COLOR" value="928374" />
     <option name="METHOD_SEPARATORS_COLOR" value="2a2a2a" />
@@ -127,7 +127,7 @@
     <option name="COFFEESCRIPT.FUNCTION_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="CONSOLE_BLACK_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="282828" />
+        <option name="FOREGROUND" value="1d2021" />
       </value>
     </option>
     <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
@@ -503,7 +503,7 @@
     </option>
     <option name="DELETED_TEXT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="282828" />
+        <option name="FOREGROUND" value="1d2021" />
         <option name="BACKGROUND" value="ebdbb2" />
       </value>
     </option>
@@ -1086,7 +1086,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="fbf1c7" />
-        <option name="BACKGROUND" value="282828" />
+        <option name="BACKGROUND" value="1d2021" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
