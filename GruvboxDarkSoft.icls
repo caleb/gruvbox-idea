@@ -698,6 +698,12 @@
         <option name="FOREGROUND" value="f9f5d7" />
       </value>
     </option>
+    <option name="INLINE_PARAMETER_HINT">
+      <value>
+        <option name="FOREGROUND" value="fbf1c7" />
+        <option name="BACKGROUND" value="8ec07c" />
+      </value>
+    </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="83a598" />
