@@ -8,7 +8,7 @@ fi
 
 shopt -s nullglob # to prevent the config_dir glob misbehaving below
 
-for product in CLion DataGrip IntelliJ IdeaIC RubyMine PhpStorm WebStorm AndroidStudio PyCharm GoLand Rider; do
+for product in CLion DataGrip IntelliJ IdeaIC RubyMine PhpStorm WebStorm AndroidStudio PyCharm GoLand Rider AppCode; do
   config_dirs="${config_dirs_template//XXX/$product}"
   for config_dir in $config_dirs; do
     colors_dir="$config_dir/colors"
